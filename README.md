@@ -2,12 +2,12 @@
 
 ## Inicialização:
 
-git init: Cria um novo repositório Git no diretório atual.
+* git init: Cria um novo repositório Git no diretório atual.
 Gerenciando Mudanças:
 
-git add <arquivo>: Adiciona arquivos à área de preparação para o próximo commit.<br>
-git commit -m "Mensagem": Salva as alterações na área de preparação como um novo commit com a mensagem especificada.<br>
-git status: Mostra o estado atual do repositório, incluindo arquivos modificados e não rastreados.
+* git add <arquivo>: Adiciona arquivos à área de preparação para o próximo commit.<br>
+* git commit -m "Mensagem": Salva as alterações na área de preparação como um novo commit com a mensagem especificada.<br>
+* git status: Mostra o estado atual do repositório, incluindo arquivos modificados e não rastreados.
 Trabalhando com Branches:
 
 git branch <nome_da_branch>: Cria uma nova branch.<br>
